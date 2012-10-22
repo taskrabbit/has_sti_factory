@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = HasStiFactory::VERSION
   gem.authors       = ["Mike Nelson"]
   gem.email         = ["mike@mikeonrails.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Do things with sti models and factories"
+  gem.summary       = "Sti models and factories"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
